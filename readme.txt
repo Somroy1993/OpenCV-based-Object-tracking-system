@@ -14,7 +14,7 @@ In settings dictionary(line no 12) those experimental values can be provided.
 
 Output:
 Output folders contains a csv and video file.
-Each row in csv has a uique key which is the frame no, the value for the same is a list of dictionary containing contour no as key and box position(x,y,w,h) as value.
+Each row in csv has a unique key which is the frame no, the value for the same is a list of dictionary containing contour no as key and box position(x,y,w,h) as value.
 The video file is saved in 30 fps, feel free to play around with the fps in settings mentioned above.
 
 Improvements:
